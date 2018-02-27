@@ -1,4 +1,4 @@
-
+// Dies ist ein kleiner privater Test
 #include <Wire.h>
 // Generelle Unterstuetzung fuer Sensoren
 #include <Adafruit_Sensor.h>
